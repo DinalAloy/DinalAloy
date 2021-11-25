@@ -1,9 +1,9 @@
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m Dinal Alosyius Cutinha
                                                                    
                                                                    
-- 👀 I’m interested in Web Development, Machine learning 
-- 🌱 I’m currently learning Backend Development
-- 💞️ I’m looking to collaborate on any projects which needs Frontend or Backend.
+- 👀 Interested in Web Development, Machine learning 
+- 🌱 Currently learning Backend Development
+- 💞️ Looking to collaborate on any projects which needs Frontend or Backend.
 - 📫 How to reach me - https://www.linkedin.com/in/dinal-cutinho-b014731b2/
 
 <!---
