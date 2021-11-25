@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dinal Alosyius Cutinha
+- #👋 Hi, I’m Dinal Alosyius Cutinha
 - 👀 I’m interested in Web Development, Machine learning
 - 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on any projects which needs Frontend or Backend.
